@@ -1,4 +1,5 @@
-![Black Pink Bold Elegant Monogram Personal Brand Logo (ภาพหน้าปก Facebook)](https://github.com/TanutsaponJ/TanutsaponJ/assets/114305352/e4524949-4148-4272-8f30-a77eac5356ff)
+![Black Pink Bold Elegant Monogram Personal Brand Logo (ภาพหน้าปก Facebook) (1)](https://github.com/TanutsaponJ/TanutsaponJ/assets/114305352/b9e9e4ec-5d9d-4c36-83bf-683979d96188)
+
 
 <h1 align="center">Hi 👋, I'm Tanutsapon Jinaongkan ( TAN )</h1>
 <h3 align="center">I am a dedicated frontend developer originally from Thailand, currently residing in Jacksonville, FL</h3>
