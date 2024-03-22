@@ -1,5 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+
 <h1 align="center">Hi 👋, I'm Tanutsapon Jinaongkan ( TAN )</h1>
+
+
 <h3 align="center">I am a dedicated frontend developer originally from Thailand, currently residing in Jacksonville, FL</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -14,6 +19,8 @@
 - 📫 How to reach me **anakin112333@gmail.com**
 
 - ⚡ Fun fact **Being deeply engrossed in front-end development, I am continually fascinated by the ever-evolving technologies. I thrive on learning new skills and exploring the latest trends in web design. When not crafting websites, you might find me at the gym, channeling the same discipline and dedication from coding into my workouts.**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
