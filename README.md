@@ -36,10 +36,18 @@
   </a>
 </p>
 
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanutsaponj&show_icons=true&locale=en&layout=compact" alt="tanutsaponj" /></p>
+<h3 align="center">🔥Streak Stats🔥</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanutsaponj&show_icons=true&locale=en" alt="tanutsaponj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanutsaponj&" alt="tanutsaponj" /></p>
+<p  align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TanutsaponJ&theme=dark&border_radius=3&card_width=460&type=png" alt="GitHub Streak" /></a>
+</p>
+
+
+
+
+
